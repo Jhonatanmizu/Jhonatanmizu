@@ -25,7 +25,7 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 - 💻 Estou estudando backend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
 - 💼 Sou apaixonado por tecnologia;
 - 👾 Meus hobbies são: 
-  - Estudar Pentest; 
+  - Estudar Pentest e Matemática; 
   - Ler livros;
 
 **Linguagens e ferramentas:**  
