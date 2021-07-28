@@ -1,50 +1,22 @@
-<h1 align="center"> Seja bem vinda e bem vindo! </h1>
-<hr />
-<p align="left" > 
-  <b>Olá!</b>
-</p>
-<a href="https://www.instagram.com/ojhonatanjesus/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
-<p align="left" >
-Me chamo <b> Jhonatan Jesus</b>.
-</p>
-<p align="left" >
-Atualmente moro na Bahia.<br />
-E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
-</p>
-<a href="https://www.linkedin.com/in/jhonatan-jesus-aa88501a4/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-</p>
+## Oiii! Eu sou o Jhonatanmizu
+  <a href="https://github.com/Jhonatanmizu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanmizu&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanmizu&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jhon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <br></br>
+ 
+ 
+ 
+<div> 
+  <a href="https://instagram.com/ojhonatanjesus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jhonatan-jesus-aa88501a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<hr />
-
-**Meus interesses pessoais:**
-
-- 💻 Estou estudando backend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
-- 💼 Sou apaixonado por tecnologia;
-- 👾 Meus hobbies são: 
-  - Estudar Pentest e Matemática; 
-  - Ler livros;
-
-**Linguagens e ferramentas:**  
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>  -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="Jquery" width="40" height="40" /> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" />
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" /> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /> -->
-</p>
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
+  <!--  
+  ![Snake animation](https://github.com/jhonatanmizu/jhonatanmizu/blob/output/github-contribution-grid-snake.svg)
+ -->
+</div>
