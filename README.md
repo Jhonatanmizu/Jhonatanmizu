@@ -35,7 +35,7 @@ Amo aprender, tudo me interessa e estou constantemente buscando conhecimento, al
   <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <br></br>
  
-  <img align="right"  alt="Jhon-yoda" src="Jhonatan.png">
+  <img align="right" width="400rem" height="300rem"  alt="Jhon-yoda" src="Jhonatan.png">
  
 <div> 
   <a href="https://instagram.com/ojhonatanjesus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
