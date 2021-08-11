@@ -1,4 +1,4 @@
-## hi! Eu sou o Jhonatanmizu, bem-vindxs.
+#Eu sou o Jhonatanmizu, bem-vindxs.
 <p>Olá personas, meu nome é Jhonatan Jesus, sou apaixonado por computação e administração, nesse sentido, venho me qualificando com o objetivo de me tornar um Desenvolvedor Front-end. Atualmente curso Sistemas de informação na UNEB, e desenvolvi uns pequenos projetos front-end com HTML, CSS, Javascript.</p>
 <p>
 Amo aprender, tudo me interessa e estou constantemente buscando conhecimento, além disso, sou dedicado em tudo aquilo que faço, busco sempre dar o meu melhor a cada dia, e assim sucessivamente.
