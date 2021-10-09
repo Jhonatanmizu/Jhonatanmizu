@@ -1,10 +1,10 @@
 ## Eu sou o Jhonatanmizu, bem-vindxs.
-<p>Olá personas, meu nome é Jhonatan Jesus, sou apaixonado por computação e administração, nesse sentido, venho me qualificando com o objetivo de me tornar um Desenvolvedor Front-end. Atualmente curso Sistemas de informação na UNEB, e desenvolvi uns pequenos projetos front-end com HTML, CSS, Javascript.</p>
+<p>Hi i'm Jhonatan a  front-end developer</p>
 <p>
-Amo aprender, tudo me interessa e estou constantemente buscando conhecimento, além disso, sou dedicado em tudo aquilo que faço, busco sempre dar o meu melhor a cada dia, e assim sucessivamente.
+I'm current working at TecnoSystemEJ
 </p>
 
-<h1>Tecnologias na qual possuo conhecimento:</h1>
+<h1>Tecnologies that i use</h1>
 
 -HTML;
 
@@ -16,13 +16,13 @@ Amo aprender, tudo me interessa e estou constantemente buscando conhecimento, al
 
 <h2>Hobbies:</h2>
 
--Estudar pentest;
+-Learn pentest;
 
--Ler;
+-Read a good book;
 
--Jogar;
+-Play games;
 
--Codar;
+-Code;
 
 <section>
   <a href="https://github.com/Jhonatanmizu">
