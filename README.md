@@ -1,18 +1,24 @@
 ## Eu sou o Jhonatanmizu, bem-vindxs.
 <p>Hi i'm Jhonatan a  front-end developer</p>
 <p>
-I'm current working at TecnoSystemEJ
+I'm currently working at TecnoSystem
 </p>
 
-<h1>Tecnologies that i use</h1>
+<h1>Technologies I use</h1>
 
--HTML;
+-Html;
 
--CSS;
+-Css;
 
--JAVASCRIPT;
+-Javascript;
 
 -LINUX;
+
+-Vue
+
+-React
+
+-React-native
 
 <h2>Hobbies:</h2>
 
