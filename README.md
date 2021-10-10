@@ -1,7 +1,7 @@
 ## Eu sou o Jhonatanmizu, bem-vindxs.
 <p>Hi i'm Jhonatan a  front-end developer</p>
 <p>
-I'm currently working at TecnoSystem
+I'm currently working at TecnoSystem EJ
 </p>
 
 <h1>Technologies I use</h1>
