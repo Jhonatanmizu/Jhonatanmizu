@@ -18,8 +18,6 @@ I'm currently working at TecnoSystem EJ
 
 -React
 
--React-native
-
 <h2>Hobbies:</h2>
 
 -Learn pentest;
