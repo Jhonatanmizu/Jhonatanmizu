@@ -1,12 +1,13 @@
 ## Eu sou o Jhonatanmizu, bem-vindxs.
 <p>Hi i'm Jhonatan a  front-end developer</p>
 <p>
-I'm currently working at TecnoSystem EJ and SOLOS Consultoria
+I'm currently working at TecnoSystem EJ and SOLOS Brasil
+</p>
+<p>
+
+Passionate about technology, I'm currently a front-end developer, and I'm currently qualifying looking to become a fullstack.
 </p>
 <h2>Hobbies:</h2>
-
--Learn pentest;
-
 -Read a good book;
 
 -Play games;
