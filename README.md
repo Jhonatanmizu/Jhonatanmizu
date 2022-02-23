@@ -1,5 +1,5 @@
-## Eu sou o Jhonatanmizu, bem-vindxs.
-<p>Hi i'm Jhonatan a  front-end developer</p>
+## Hi i'm Jhonatan.
+<p>A  front-end developer</p>
 <p>
 I'm currently working at TecnoSystem EJ and SOLOS Brasil
 </p>
