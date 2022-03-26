@@ -1,5 +1,5 @@
 ## Hi i'm Jhonatan.
-<p>A  front-end developer</p>
+<p>A  front-end developer 💻 </p>
 <p>
 I'm currently working at TecnoSystem EJ and SOLOS Brasil
 </p>
@@ -8,11 +8,11 @@ I'm currently working at TecnoSystem EJ and SOLOS Brasil
 Passionate about technology, I'm currently a front-end developer, and I'm currently qualifying looking to become a fullstack.
 </p>
 <h2>Hobbies:</h2>
--Read a good book;
+-Read a good book 📖;
 
--Play games;
+-Play games 🎮;
 
--Code;
+-Code ☕;
 
 <section>
   <a href="https://github.com/Jhonatanmizu">
