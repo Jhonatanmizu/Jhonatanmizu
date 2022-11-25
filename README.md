@@ -7,6 +7,9 @@ I'm currently working at TecnoSystem EJ and SOLOS Brasil
 
 Passionate about technology, I'm currently a front-end developer, and I'm currently qualifying looking to become a fullstack.
 </p>
+<p>
+  Working using web techologies like React, ReacNative,Vue, and Nodejs.
+</p>
 <h2>Hobbies:</h2>
 -Read a good book 📖;
 
@@ -27,7 +30,7 @@ Passionate about technology, I'm currently a front-end developer, and I'm curren
    <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
         <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-   <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
