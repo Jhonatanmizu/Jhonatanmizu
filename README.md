@@ -8,7 +8,7 @@ I'm currently working at TecnoSystem EJ and SOLOS Brasil
 Passionate about technology, I'm currently a front-end developer, and I'm currently qualifying looking to become a fullstack.
 </p>
 <p>
-  Working using web techologies like React, ReacNative,Vue, and Nodejs.
+  Working using web techologies like React, React Native,Vue, and Nodejs.
 </p>
 <h2>Hobbies:</h2>
 -Read a good book 📖;
