@@ -10,6 +10,10 @@ Passionate about technology, I'm currently a front-end developer, and I'm curren
 <p>
   Working using web techologies like React, React Native,Vue, and Nodejs.
 </p>
+<p>
+   I'm currently vice-president at <b>TecnoSystem EJ</b>
+</p>
+
 <h2>Hobbies:</h2>
 -Read a good book 📖;
 
