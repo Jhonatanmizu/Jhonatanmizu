@@ -4,11 +4,10 @@
 I'm currently working with ☕ and 💻
 </p>
 <p>
-
-Passionate about technology, I'm currently a front-end developer, and I'm currently qualifying looking to become a fullstack.
+Passionate about technology and I'm currently qualifying looking to become a software engineer.
 </p>
 <p>
-  Working using web techologies like React, React Native,Vue, and Nodejs.
+  Working using  techologies like React, React Native,Vue, and Nodejs.
 </p>
 <p>
    I'm currently vice-president at <b>TecnoSystem EJ</b>
