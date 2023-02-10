@@ -1,5 +1,5 @@
 ## Hi i'm Jhonatan.
-<p>A  front-end developer 💻 </p>
+<p>A  Software developer 💻 </p>
 <p>
 I'm currently working with ☕ and 💻
 </p>
