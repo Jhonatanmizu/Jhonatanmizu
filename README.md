@@ -4,7 +4,7 @@
 I'm currently working with ☕ and 💻
 </p>
 <p>
-Passionate about technology and I'm currently qualifying looking to become a software engineer.
+Passionate about technology and I'm currently working with Javascript (Since 2020).
 </p>
 <p>
   Working using  techologies like React, React Native,Vue, and Nodejs.
