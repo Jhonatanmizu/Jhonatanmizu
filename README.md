@@ -66,11 +66,11 @@ Brazilian 🇧🇷 • Coffee-fueled ☕ • Linux advocate 🐧
 
 <div align="center">
   <a href="https://github.com/jhonatanmizu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanmizu&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanmizu&layout=compact&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanmizu&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanmizu&layout=compact&theme=catppuccin_mocha&hide_border=true" />
   </a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatanmizu&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatanmizu&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
