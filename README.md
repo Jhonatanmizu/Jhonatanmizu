@@ -1,17 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is JHONATAN DE JESUS OLIVEIRA
 ==================================================================================================================================================
 
-Software Developer and UI/UX Design
+Software Engineer and UI/UX Design
 -----------------------------------
 
-A Software developer 💻 I'm currently working with ☕ and 💻 Passionate about technology and I'm currently working with Javascript (Since 2020). Working using techologies like React, React Native,Vue, and Nodejs. I'm currently vice-president at TecnoSystem EJ
+A Software Engineer 💻 I'm currently working with ☕ and 💻 Passionate about technology. 
+
+
+Software Engineer at [Midway](https://www.midway.com.br/)
+M.S. in Computer Science (in progress) at University of Feira de Santana (UEFS)
+B.S. in Information Systems at University of State of Bahia (UNEB)
+Portuguese (native speaker)
+English (proficient)
+
+Working using techologies like React, React Native, NextJS,Vue, NodeJS, NestJS, Django, Python. 
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [Portfolio](http://jhonatanmizu.vercel.app)
 * ✉️  You can contact me at [natanjesuss20@gmail.com](mailto:natanjesuss20@gmail.com)
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Open source projects
-* ⚡  Open Sourcerer, Linux Lover, Bachelor of Information Systems(in progress)
+* ⚡  Open Sourcerer, Linux Lover
 
 ### Skills
 
